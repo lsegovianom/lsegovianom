@@ -1,37 +1,65 @@
 .ventana{
-    width: 200px;
-    height: 1500px;
-    background-image: linear-gradient(rgb(168, 101, 87), rgb(3, 87, 255));
+
+}
+.cuadro_titulo{
+    width: 1420px;
+    height: 5cm;
+    background:black;
     border-radius: 0%;
     position: fixed;
-    left: 0px; 
-    top: 00px ;
+    left: 10px; 
+    top: 10px ;
     font-family: 'Poppins', sans-serif;
-    color:white ;
+    color:rgb(255, 255, 255) ;
+    border-radius: 10cap;
+   
 }
-.cuadro_pequeño{
-    width: 100px;
-    background-image: linear-gradient(rgb(60, 64, 104));
-}
+
 .Rectangulo_Izquierda{
+    position: fixed;
+    width: 6cm;
+   height: 15cm; 
+   left: 0.2cm;
+   top: 5.5cm;
+   background: rgb(255, 0, 0);
+   border-radius: 10cap;
+   color:rgb(0, 0, 0) ;
+   font-family: 'Poppins', sans-serif;
 }
 .rectangulo_Derecha{
-    
+    position: fixed;
+    width: 29.8cm;
+    height: 15cm;
+    left: 7cm;
+    top: 5.5cm;
+    border-radius: 10cap;
+    background: rgb(0, 0, 0);
+}
+img{
+    position: fixed;
+    width: 8cm;
+    height: 9cm;
+    left:7.5cm;
+    top: 8cm;
+    border-radius: 100cap;
 }
 
-
+.rectangulo_Derecha_2{
+    position: fixed;
+    width: 19.2cm;
+    height: 14cm;
+    left:17cm;
+    top: 6cm;
+    border-radius: 10cap;
+    background: rgb(255, 255, 255);
+    font-family: 'Poppins', sans-serif;
+}
 nombre
 contactoi:numero,email
 Estudios
-Experiencia
-imagen
 Hobbies
+imagen
+
+Experiencia
 portafolio
-width: 300px;
-    height: 200px;
-    background-image: linear-gradient(rgb(255, 255, 255), rgb(149, 148, 145));
-    border-radius: 10%;
-    position: fixed;
-    left: 30px; 
-    top: 100px ;
-    border: 10px solid rgb(0, 0, 0);
+
