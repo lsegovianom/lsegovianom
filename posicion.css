@@ -9,20 +9,16 @@
     font-family: 'Poppins', sans-serif;
     color:white ;
 }
-.cuadro{
+.cuadro_pequeño{
     width: 100px;
     background-image: linear-gradient(rgb(60, 64, 104));
 }
-.circulo{
-    height:169px;
-    width:169px ;
-    left:190px ;
-    top:115px;
-    border-radius: 100%;
+.Rectangulo_Izquierda{
 }
-.rectangulo{
+.rectangulo_Derecha{
     
 }
+
 
 nombre
 contactoi:numero,email
